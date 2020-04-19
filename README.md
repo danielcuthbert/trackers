@@ -22,5 +22,14 @@ I'm not against tracking, I understand that this is part and parcel of the Inter
 
 The project is a work in progress. It's based upon my obsession and might not work for you, but in the spirit of sharing I'm presenting the data for you to use, and maybe do a pull request to add to the data (if you can)
 
+It is currently concentrating on the TV streaming apps, kids apps, kids learning apps and most apps you'd associate with entertainment, which are currently being heavily utilised during the isolation we all face. There have been monumental efforts by others to block a wide-range of sites and I'm leaning on this work myself, but rather than just blanket block, I want to understand the why and the how before making an informed decision on blocking that particular endpoint. 
+
+I pay for content, I pay for services, none of the ones I'm accessing are free, so the balance between usability and privacy weigh heavily on my mind. 
+
+## Current Applications Being Assessed
+
+* Disney+ on the Android TV ecosystem
+* YouTube for Kids
+
 
 
