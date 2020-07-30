@@ -1429,3 +1429,9 @@ zdbb.net
 zn4tkr5tyyboykso1-quora.siteintercept.qualtrics.com
 polymer.github.io
 www.enable-javascript.com
+pixel.anyclip.com
+config.anyclip.com
+player.anyclip.com
+cdn5.anyclip.com
+assets.anyclip.com
+lreprx-server.anyclip.com
