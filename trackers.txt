@@ -530,6 +530,8 @@ digikey.evergage.com
 dis.criteo.com
 dis.eu.criteo.com
 disney.demdex.net
+disney-portal.my.onetrust.com
+disneyplus.bn5x.net
 display.apester.com
 displayads-formats.googleusercontent.com
 distillery.wistia.com
