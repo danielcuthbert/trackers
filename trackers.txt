@@ -1,6 +1,7 @@
 0.gravatar.com
 190829.engine.mobileapptracking.com
 2542116.fls.doubleclick.net
+2mdn.net
 2ab7f.v.fwmrm.net
 2xl33-jbopy.ads.tremorhub.com
 5-9-1-ios.appload.ingest.crittercism.com
@@ -49,6 +50,7 @@ acs.m.taobao.com
 acsbap.com
 activate.adobe.com
 ad-delivery.net
+adwhirl.com
 ad-emea.doubleclick.net
 ad.360yield.com
 ad.atdmt.com
@@ -624,6 +626,7 @@ front.optimonk.com
 fundingchoices.google.com
 fuse.forbes.com
 g.3gl.net
+gvt3.com
 g2.gumgum.com
 gads.pubmatic.com
 ganon.yahoo.com
