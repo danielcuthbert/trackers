@@ -383,6 +383,7 @@ cdn4.buysellads.net
 cdn4.mxpnl.com
 cdn5.userzoom.com
 cdns.gigya.com
+cdn.snigelweb.com
 cdnssl.clicktale.net
 cdp.cloud.unity3d.com
 cds.j3z9t3p6.hwcdn.net
@@ -462,6 +463,7 @@ cs.emxdgt.com
 csc.beap.bc.yahoo.com
 csi.gstatic.com
 cstat.apple.com
+cslogger.media.net
 csync.smartadserver.com
 ct.pinterest.com
 cti.w55c.net
@@ -612,6 +614,7 @@ fetd.prod.cps.awseuwest1.itvcloud.zone
 fff.dailymail.co.uk
 files.constantcontact.com
 fingahvf.top
+fling.cid.samba.tv
 firebase-settings.crashlytics.com
 firebaselogging.googleapis.com
 fls-eu.amazon.com
@@ -1149,6 +1152,7 @@ srv.buysellads.com
 srv.clickfuse.com
 srv.pixel.parsely.com
 ss.musthird.com
+ssc.33across.com
 ssc.api.bbc.com
 ssl.google-analytics.com
 ssl.kaptcha.com
