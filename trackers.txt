@@ -507,6 +507,7 @@ d8rk54i4mohrb.cloudfront.net
 dapperdiscussion.com
 dart.l.doubleclick.net
 data.cnn.com
+datadoghq-browser-agent.com
 data.flurry.com
 db5.vortex.data.microsoft.com.akadns.net
 dc.ads.linkedin.com
