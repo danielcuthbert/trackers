@@ -234,7 +234,6 @@ auction.unityads.unity3d.com
 audible.sc.omtrdc.net
 audible.tt.omtrdc.net
 audioserve.adswizz.com
-autotrader.co.uk
 az416426.vo.msecnd.net
 b.6sc.co
 b.measuread.com
@@ -689,6 +688,7 @@ hocgeese.com
 hosting-source.bm23.com
 htlbid.com
 httpkafka.unityads.unity3d.com
+hulkprod.anm.co.uk
 i.clean.gg
 i.icomoon.io
 i.kissmetrics.com
