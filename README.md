@@ -22,5 +22,9 @@ I'm not against tracking, I understand that this is part and parcel of the Inter
 
 The project is a work in progress. It's based upon my obsession and might not work for you, but in the spirit of sharing I'm presenting the data for you to use, and maybe do a pull request to add to the data (if you can)
 
+## Building your own tracker and visualising the data
+
+I've created a more detailed HOWTO guide if you want to play along at home. You can view it over at [here](HOWTO.md)
+
 
 
