@@ -104,6 +104,29 @@ Basically, rinse and repeat is the name of the game here.
 ![](img/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4571502d582d52585941415a4d42792e6a7067.jpeg)
 ![](img/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4571502d656b3857344141307a55472e706e67.png)
 
+Another way is to inspect the element itself. Let's use this example where there is an advert for a Samsung that you won't want to see
+
+![](img/standard.png)
+
+if you right click over the advert, you will see this (in Google Chrome in this case)
+
+![](img/right_click.png)
+
+Choose Inspect and you will be presented with this appearing on the right of the screen
+
+![](img/inspect.png)
+
+This is the code that makes up the web page. Now Google Chrome actually makes this easier for us by tagging adverts
+
+![](img/ad.png)
+
+Now all you need to do is copy that domain(s) being called and add them to your own personal list. Once they are added, if you reload the page, you should see something like this
+
+![](img/standard2.png)
+![](img/failed.png)
+
+#### Mobile Applications
+
 But what happens if you have a mobile app? How do you do the same?
 
 With iOS you can attach a remote developer tool session via safari but it's a hassle, what I prefer doing is pulling down the mobile app and then running it through [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
