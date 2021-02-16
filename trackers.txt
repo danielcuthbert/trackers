@@ -597,6 +597,8 @@ events.split.io
 events.turbosquid.com
 events.whisk.com
 evt.klarna.com
+evergage.com
+cdn.evgnet.com
 experience.contextly.com
 experience.tinypass.com
 extreme-ip-lookup.com
@@ -1245,6 +1247,7 @@ t.skimresources.com
 t.teads.tv
 t.wayfair.co.uk
 t.wayfair.com
+tg.a3.ag
 tag.1rx.io
 tag.aticdn.net
 tag.bounceexchange.com
