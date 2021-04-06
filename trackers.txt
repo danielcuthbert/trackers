@@ -261,6 +261,7 @@ bid.contextweb.com
 bidder.criteo.com
 bidder.rtk.io
 biddr.brealtime.com
+bis.vidazoo.com
 bm.adentifi.com
 bmedia.justservingfiles.net
 bnc.lt
@@ -736,6 +737,7 @@ instant.page
 intg.snapchat.com
 intljs.rmtag.com
 invitejs.trustpilot.com
+inventory.vidazoo.com
 ios.bugly.qq.com
 ipapi.co
 ir-na.amazon-adsystem.com
