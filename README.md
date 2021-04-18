@@ -20,7 +20,8 @@ I'm not against tracking, I understand that this is part and parcel of the Inter
 
 ## How?
 
-The project is a work in progress. It's based upon my obsession and might not work for you, but in the spirit of sharing I'm presenting the data for you to use, and maybe do a pull request to add to the data (if you can)
+The project is a work in progress. It's based upon my obsession and might not work for you, but in the spirit of sharing I'm presenting the data for you to use, and maybe do a pull request to add to the data (if you can). 
+I've started a seperate mobile games trackers list, mostly based on the games my kids play. You can find this under the mobilegames.txt list and ill endeavour to keep it as up to date as possible. 
 
 ## Building your own tracker and visualising the data
 
