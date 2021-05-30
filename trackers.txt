@@ -829,6 +829,7 @@ licensing.bitmovin.com
 links.services.disqus.com
 live.chartboost.com
 live.sekindo.com
+litix.io
 livestream.services.cdn.jwplatform.com
 livestream.services.jwplatform.com
 lnkd.demdex.net
@@ -1336,6 +1337,7 @@ tags.expo9.exponential.com
 tags.news.com.au
 tags.onscroll.com
 tags.tiqcdn.com
+tawk.to
 td.yieldify.com
 ted.dailymail.co.uk
 tempest.services.disqus.com
@@ -1459,6 +1461,7 @@ widgets.pinterest.com
 widgets.trustedshops.com
 wish.securedtouch.com
 woodpecker.uc.cn
+wistia.net
 ws-na.amazon-adsystem.com
 ws.audioeye.com
 ws.sessioncam.com
