@@ -1215,6 +1215,7 @@ smetrics.tesco.com
 socialize.eu1.gigya.com
 soflopxl.com
 sonar.adswizz.com
+sophi.io
 sourcepoint.vice.com
 sp.analytics.yahoo.com
 speedtrap.shopdirect.com
