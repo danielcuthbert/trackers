@@ -12,7 +12,7 @@ ads30.adcolony.com
 adsdata.mng-ads.com
 adserver.unityads.unity3d.com
 analytics.social.unity.com
-androidads20.adcolony.com 
+androidads20.adcolony.com
 androidads21.adcolony.com
 androidads23.adcolony.com
 androidads30.adcolony.com
@@ -27,14 +27,16 @@ applvn.com
 appsflyer.com
 apx.moatads.com
 auction.unityads.unity3d.com
+adserver.unityads.unity3d.com
 banner.fyber.com
 banners.mng-ads.com
-bid.kidoz.net   
+bid.kidoz.net
 c.w.inmobi.com
 cdn-highwinds.unityads.unity3d.com
 cdn.appsflyer.com
 cdn.kidoz.net
 cdn.unityads.unity3d.com
+cdn-highwinds.unityads.unity3d.com
 cdn3.kidoz.net
 chartboost.com
 china.inmobi.com
@@ -42,6 +44,8 @@ config-ltvp.inmobi.com
 config.inmobi.com
 config.uca.cloud.unity3d.com
 config.unityads.unity3d.com
+stats.unity3d.com
+webview.unityads.unity3d.com
 dmtry.com
 doubleclick.net
 emailtracking.appsflyer.com
@@ -50,6 +54,7 @@ et.w.inmobi.com
 events20.adcolony.com
 events3alt.adcolony.com
 firebase.com
+game.qq.com
 geo.moatads.com
 hyprmx.com
 i.l.inmobicdn.net
@@ -73,6 +78,7 @@ pixel.moatads.com
 prebid-adapter.kidoz.net
 prebid.kidoz.net
 px.moatads.com
+qq.com
 r.w.inmobi.com
 sdk-analytics.devenv.kidoz.net
 sdk-api.devenv.kidoz.net
@@ -87,7 +93,7 @@ stats.unity3d.com
 track.appsflyer.com
 tracker.fyber.com
 tracking.chartboost.com
-video-interstitial-assets-cdn.fyber.com 
+video-interstitial-assets-cdn.fyber.com
 video.fyber.com
 w.inmobi.com
 wd.adcolony.com
